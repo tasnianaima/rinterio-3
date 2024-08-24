@@ -1,6 +1,16 @@
-.btn-color{
+
+
+
+.manrope-font {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}.btn-color{
     background-color: rgba(171, 239, 95, 0.2);
 }
 .bg-image{
+    background-repeat: no-repeat;
+    background-size:cover;
     background-image: url(../assets/bg.jpg);
 }
